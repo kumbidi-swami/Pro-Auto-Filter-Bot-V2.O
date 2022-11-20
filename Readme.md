@@ -30,7 +30,7 @@ Team [ Movie House ](https://Telegram.dog/MovieHouse_TG)
 
 ### Credits
   
-* [adwin mosses](https://t.me./adwin_mosses
+* [adwin mosses](https://t.me./adwin_mosses)
 * [InukaAsith](https://github.com/InukaAsith)
 * [Shahsad-klr](https://github.com/shahsad-klr)
 * [AlbertEinsteinTG](https://github.com/AlbertEinsteinTG)
