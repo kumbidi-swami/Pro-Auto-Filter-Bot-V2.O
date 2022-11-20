@@ -18,7 +18,7 @@
 
 I'm an Autofilter bot v2.O and you can not Add Me to your Group. I was made for <a href="t.me/{}">this one group</a>. So don't waste your Time...
 
-Team [Mo Tech](https://Telegram.dog/Mo_Tech_YT)
+Team [ Movie House ](https://Telegram.dog/MovieHouse_TG)
 
 
 ##### Deploy On Heroku 
